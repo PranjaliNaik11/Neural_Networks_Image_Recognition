@@ -45,7 +45,3 @@ Based on the results, you can draw conclusions about which model performs better
 ## Contributors
 
 - Pranjali Naik (@PranjaliNaik11)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
