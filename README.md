@@ -6,7 +6,7 @@ This project aims to compare the performance of sequential models and Convolutio
 
 ## Requirements
 
-To run the code, you'll need:
+To run the code, you will need:
 
 - Python 3.x
 - TensorFlow 2.x
